@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Click here](https://yaikarace.github.io/NFT-Preview-Card-Component/)
+- Live Site URL: [Click here](https://nft-preview-card-component-yaikarace.netlify.app)
 
 ## My process
 
